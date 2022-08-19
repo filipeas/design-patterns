@@ -12,6 +12,13 @@ This repository implements all of the design patterns of Gang of Four (GoF). Bel
 
 **Behavioural** category on how classes and objects interact and distribute responsibilities in the application.
 
+### Creational
+- **Singleton**: Ensure that a class has only one instance in the program and provide a global access point for it.
+- **Abstract Factory**:
+- **Builder**:
+- **Factory Method**:
+- **Prototype**:
+
 ## Principle of design object oriented (SOLID)
 - **Single Responsability Principle**: one class have only one reason to change
 - **Open/closed principle**: class, object and methods most be open to extension, but closed for changes.
