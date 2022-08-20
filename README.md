@@ -14,8 +14,8 @@ This repository implements all of the design patterns of Gang of Four (GoF). Bel
 
 ### Creational
 - **Singleton**: Ensure that a class has only one instance in the program and provide a global access point for it.
+- **Builder**: Separate the construction of a complete object from its representation so that the same construction process can create different representations.
 - **Abstract Factory**:
-- **Builder**:
 - **Factory Method**:
 - **Prototype**:
 
